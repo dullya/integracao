@@ -97,4 +97,5 @@ GET /api/mensagem
 
 📸 Preview
 
-<img width="1255" height="484" alt="image" src="https://github.com/user-attachments/assets/da521369-9373-4b27-89f4-3aebd47909c1" />
+<img width="872" height="382" alt="image" src="https://github.com/user-attachments/assets/b1ba0012-9118-4cfa-ade7-a68c5189e81d" />
+
